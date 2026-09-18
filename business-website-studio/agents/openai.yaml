@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Website Studio"
+  short_description: "Research, design, build, and QA business sites"
+  default_prompt: "Use $business-website-studio to take this business website project from verified discovery through responsive implementation and QA."
